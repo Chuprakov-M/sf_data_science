@@ -56,6 +56,6 @@ start_game.ipynb и start_game.py - "красивые" файлы запуска
 
 
 ### Выводы:  
-baseline = 20 - слишком много
+baseline = 20 - слишком много.
 
 :arrow_up:[к оглавлению](README.md#Оглавление)
