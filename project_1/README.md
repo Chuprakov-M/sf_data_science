@@ -16,7 +16,7 @@ Project-1. Ноутбук.ipynb - файл с выполненным задан�
 ### Краткая информация о данных
 База данных с резюме для анализа: 44 474 наблюдения.
 
-ссылка на файл: https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=share_link
+Ссылка на файл: https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=share_link.
 
  Поля:
 
